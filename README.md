@@ -1,4 +1,4 @@
-# Local Statistics on Surfaces Using Virginia Population Raster Dataset
+# Local Statistics on Surfaces Using DC Population Raster Dataset
 
 More and more spatial data are now available as surfaces, and figuring out how to compute local Moran’s I on them—rather than on geo-tables—is a more advanced topic in geographic data science. Since LISA for surfaces is still experimental and not as developed as for geo-tables, it’s a newer and evolving area. Next, we’ll dive in by using the DC population raster to explore its spatial patterns with Local Indicators of Spatial Association (LISAs).
 
